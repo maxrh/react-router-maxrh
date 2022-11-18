@@ -1,0 +1,18 @@
+.App {
+    text-align: center;
+}
+
+
+.nav {
+
+    ul {
+        display: flex;
+        flex-direction: row;
+        list-style: none;
+
+        li {
+            margin-right: 15px;
+        }
+    }
+    
+}
